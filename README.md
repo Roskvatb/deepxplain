@@ -3,7 +3,7 @@
 This repository contains my work on explainable AI techniques for hate speech detection in Portuguese text.
 
 ## Overview
-I'm exploring how LIME and SHAP can help explain machine learning models that detect hate speech, with a focus on Brazilian Portuguese social media data.
+We are exploring how LIME and SHAP can help explain machine learning models that detect hate speech, with a focus on Brazilian Portuguese social media data.
 
 ## Files
 - `deepxplain-notes.md` - Research notes, definitions, and reflections
